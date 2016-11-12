@@ -1,8 +1,8 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/go_title.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/startScript.cs">
     <Files>
-      <File FileName="Assets/go_title.cs" Line="7" Column="35" />
+      <File FileName="Assets/startScript.cs" Line="1" Column="1" />
       <File FileName="Assets/SceneLoadScript.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
