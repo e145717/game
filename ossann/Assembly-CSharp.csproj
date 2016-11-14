@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Sctipt\Enemy.cs" />
+     <Compile Include="Assets\Sctipt\Gameover.cs" />
      <Compile Include="Assets\Sctipt\PlayerMotion.cs" />
      <Compile Include="Assets\Sctipt\SceneLoadScript.cs" />
      <Compile Include="Assets\Sctipt\StartScript.cs" />
