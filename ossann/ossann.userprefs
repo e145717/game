@@ -1,10 +1,11 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UnityChan/Scripts/ThirdPersonCamera.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Sctipt/Gameover.cs">
     <Files>
-      <File FileName="Assets/Sctipt/startScript.cs" Line="6" Column="24" />
-      <File FileName="Assets/Sctipt/SceneLoadScript.cs" Line="7" Column="28" />
-      <File FileName="Assets/UnityChan/Scripts/ThirdPersonCamera.cs" Line="34" Column="43" />
+      <File FileName="Assets/Sctipt/SceneLoadScript.cs" Line="7" Column="34" />
+      <File FileName="Assets/Sctipt/PlayerMotion.cs" Line="25" Column="49" />
+      <File FileName="Assets/Sctipt/Gameover.cs" Line="22" Column="36" />
+      <File FileName="Assets/Sctipt/Enemy.cs" Line="19" Column="49" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
